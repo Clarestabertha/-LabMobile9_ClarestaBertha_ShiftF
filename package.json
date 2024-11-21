@@ -12,9 +12,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@codetrix-studio/capacitor-google-auth": "^3.4.0-rc.4",
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
+    "firebase": "^11.0.2",
     "ionicons": "^7.0.0",
+    "pinia": "^2.2.6",
     "vue": "^3.3.0",
     "vue-router": "^4.2.0"
   },
